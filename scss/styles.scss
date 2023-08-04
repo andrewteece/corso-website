@@ -34,4 +34,32 @@
   .navbar {
     background: var(--bs-dark);
   }
+
+  .header {
+    height: 50rem !important;
+    min-height: 50rem !important;
+  }
+
+  .header .slide {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .header .text-container p {
+    width: 100% !important;
+    font-size: 1rem;
+  }
+
+  .register {
+    padding: 2.5rem 0 !important;
+  }
+
+  .register h2 {
+    text-align: center;
+  }
+
+  .summary {
+    margin-top: 0 !important;
+    width: 90% !important;
+  }
 }
