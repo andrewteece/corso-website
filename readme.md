@@ -1,8 +1,23 @@
 # Corso Website
 
-Bootstrap website for training courses, workshops, seminars, etc. It has a mixed design with both light and dark colors and a modern look.
+## Screenshot
 
-<img src="./images/screen.png" />
+![](./images/screenshot.png)
+
+## Link
+
+- Live Site URL: [https://andrewteece.github.io/corso-website/]
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Bootstrap
+- SASS/SCSS
+- Font Awesome
+- Mobile-first workflow
+
 
 ## Features
 
@@ -11,8 +26,5 @@ Bootstrap website for training courses, workshops, seminars, etc. It has a mixed
 - Sticky navbar with style changes on scroll
 - Carousel image slider
 - Register & email subscribe forms
-- Font Awesome icons
 
-## Usage
 
-This website is built with [Bootstrap](https://getbootstrap.com/) and [Sass](https://sass-lang.com/). It uses [Font Awesome](https://fontawesome.com/) for icons.
